@@ -1,2 +1,2 @@
 # Sql-project1
-develop a database to analyze and visualize hotel booking data
+Developing a database to analyze and visualize hotel booking data between two different hotels.
